@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/GUI/EmployeeDashboard.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/DatabaseConnector/DatabaseConnection.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/GUI/PayrollDashboard.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/GUI/PaySlip.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/GUI/AdminDashboard.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/EmployeeDetails.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/Controller/DBQueries.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/Controller/SalaryCalculator.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/DashboardData.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/DayOfMonth.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/WorkTracker.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/Deductions.java</file>
+            <file>file:/C:/Users/jafph/Desktop/Prototype%201/src/BusinessLogic/Allowances.java</file>
+        </group>
+    </open-files>
+</project-private>
